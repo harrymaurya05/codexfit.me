@@ -155,5 +155,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/hariommaurya.com",
+  pathPrefix: "/codexfit.me",
 };
